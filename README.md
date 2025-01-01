@@ -1,5 +1,5 @@
 
-> このページを開く [https://sen1192012.github.io/ptx-robocon/](https://sen1192012.github.io/ptx-robocon/)
+> このページを開く [https://sen-119.github.io/ptx-robocon/](https://sen-119.github.io/ptx-robocon/)
 
 ## 拡張機能として使用
 
@@ -8,7 +8,7 @@
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/sen1192012/ptx-robocon** を検索してインポートします。
+* **https://github.com/sen-119/ptx-robocon** を検索してインポートします。
 
 ## このプロジェクトを編集します
 
